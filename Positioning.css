@@ -1,0 +1,14 @@
+body{
+  position: relative;
+}
+
+#fixed {
+  background-color: #eee;
+  padding: 20px;
+  height: 30;
+  width: 50;
+  position:fixed;
+  top: 0;
+  bottom: 0;
+
+}
